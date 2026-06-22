@@ -1,4 +1,0 @@
-this is the file which i want to store it inside git hub
-
-this is my important file
-this line is edited in GitHub
